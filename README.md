@@ -7,7 +7,7 @@ thema:
 
 so eine kleine einleitung wie man in obs einen sponsoren banner errichtet
 
-1. gehe liks unten unter quelle auf das plus zeichen 
+1. gehe links unten unter quelle auf das plus zeichen 
 ![image](https://user-images.githubusercontent.com/98493489/160696656-b935b617-d23d-43c9-9a1c-1ee4f438cfd2.png)
 
 
