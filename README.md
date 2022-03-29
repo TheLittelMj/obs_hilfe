@@ -2,7 +2,7 @@ was suchst du ?
 
 thema:
 1. sponsoren banner(zeile.8-29)
-2. der spotify filter(zeile.30- )
+2. der spotify filter(zeile.30-52)
 
 
 so eine kleine einleitung wie man in obs einen sponsoren banner errichtet
