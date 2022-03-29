@@ -46,4 +46,7 @@ um spotify im stream hörbar zu machen und in der VOD also video was man sich na
 ![image](https://user-images.githubusercontent.com/98493489/160700052-6d6d1523-c4f3-4797-b7ce-49206b9de032.png)
 kleine erklärung spur 1 steht für dein stream was alles gehört wird und spur 2 sollte für die tonspur was im nachhinein gehört wird damit keine strike rein kommen
 
-6jetzt suchst du unter den windows einstellungen soundmixer
+6jetzt suchst du unter den windows einstellungen soundmixer spotify und gibst ins output fenster das gleiche gerät ein wie zuvor in desktop 2
+![image](https://user-images.githubusercontent.com/98493489/160701411-640d0cfb-b011-4be9-9556-d6d8a54ed68a.png)
+
+und das wars viel spaß
